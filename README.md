@@ -1,6 +1,6 @@
 # Privacy Policy for ApplyMate
 
-_Last Updated: [Your Date]_
+_Last Updated: 27 February 2025_
 
 ## 1. Introduction
 ApplyMate is a Chrome extension that helps users extract job descriptions, optimize their resumes using AI, and download a tailored resume in PDF format. We are committed to protecting your privacy and ensuring transparency in how data is handled.
